@@ -13,4 +13,6 @@ GRUB Update: After a kernel is removed, the script automatically updates the GRU
 
 Exit Mechanism: The script continues to loop, displaying the remaining kernels until the user presses Enter without selecting a kernel.
 
-## Learn More at: https://www.coderancher.us/2024/09/11/managing-old-kernels-on-ubuntu-a-custom-kernel-removal-script/
+## Learn More at: 
+
+https://www.coderancher.us/2024/09/11/managing-old-kernels-on-ubuntu-a-custom-kernel-removal-script/
